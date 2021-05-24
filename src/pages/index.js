@@ -69,3 +69,82 @@ export default IndexPage;
 // npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
 // npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
 // npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+/* ------------------------ */
+
+/* 
+npm WARN cssnano@5.0.3 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies 
+yourself.
+npm WARN cssnano-preset-default@5.1.0 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN cssnano-utils@2.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN eslint-config-react-app@6.0.0 requires a peer of babel-eslint@^10.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN express-graphql@0.9.0 requires a peer of graphql@^14.4.1 but none is installed. You must install peer dependencies yourself.
+npm WARN gatsby-background-image@1.1.1 requires a peer of react@16.x but none is installed. You must install peer dependencies yourself.
+npm WARN gatsby-background-image@1.1.1 requires a peer of react-dom@16.x but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-colormin@5.1.0 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-convert-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-comments@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-duplicates@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-empty@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-discard-overridden@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-merge-longhand@5.0.2 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-merge-rules@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-font-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-gradients@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-params@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-minify-selectors@5.1.0 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-charset@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install 
+peer dependencies yourself.
+npm WARN postcss-normalize-display-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-positions@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-repeat-style@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-string@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-timing-functions@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-unicode@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install 
+peer dependencies yourself.
+npm WARN postcss-normalize-url@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-normalize-whitespace@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-ordered-values@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-reduce-initial@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-reduce-transforms@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install 
+peer dependencies yourself.
+npm WARN postcss-svgo@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN postcss-unique-selectors@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN react-side-effect@2.1.0 requires a peer of react@^16.3.0 but none is installed. You must install peer dependencies yourself.
+npm WARN stylehacks@5.0.1 requires a peer of postcss@^8.2.15 but none is installed. You must install peer dependencies yourself.
+npm WARN ts-node@9.1.1 requires a peer of typescript@>=2.7 but none is installed. You must install peer dependencies yourself.
+npm WARN tsutils@3.21.0 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 
+3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install 
+peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\webpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ faunadb@4.3.0
+updated 1 package and audited 2625 packages in 23.131s
+
+227 packages are looking for funding
+  run `npm fund` for details
+
+found 54 vulnerabilities (29 low, 7 moderate, 18 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+C:\Users\Samsung\JavaScript\GatsbyJS\gatsby-shopify-starter-tomphill-UPDATED>
+C:\Users\Samsung\JavaScript\GatsbyJS\gatsby-shopify-starter-tomphill-UPDATED>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ */

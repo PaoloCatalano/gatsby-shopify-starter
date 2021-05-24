@@ -1,4 +1,4 @@
-const faunadb = require('faunadb');
+var faunadb = require('faunadb');
 const verifyWebhookIntegrity = require('shopify-verify-webhook');
 const axios = require('axios');
 
