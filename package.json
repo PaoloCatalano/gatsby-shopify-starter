@@ -7,7 +7,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.12.0",
-    "faunadb": "^4.3.0",
+    "faunadb": "^3.0.1",
     "gatsby": "^3.5.1",
     "gatsby-background-image": "^1.1.1",
     "gatsby-image": "^3.5.0",
@@ -40,7 +40,7 @@
   ],
   "license": "0BSD",
   "scripts": {
-    "build": "npm install && gatsby build",
+    "build": "gatsby build && cd functions && npm install",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
